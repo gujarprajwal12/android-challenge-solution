@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Random String Generator</string>
+    <string name="enter_length">Enter length</string>
+    <string name="generate">Generate</string>
+    <string name="clear_all">Clear All</string>
+    <string name="delete">Delete</string>
+    <string name="length">Length: %d</string>
+    <string name="invalid_length">Please enter a valid positive number</string>
+    <string name="provider_not_available">Random string service not available</string>
+    <string name="empty_response">Empty response from provider</string>
+    <string name="no_data_available">No data available</string>
+    <string name="service_unavailable">Service unavailable</string>
+    <string name="service_timeout">Service timeout - try again</string>
+    <string name="permission_denied">Permission denied. Check app permissions</string>
+    <string name="general_error">Error: %s</string>
+    <string name="parse_error">Failed to parse response: %s</string>
+
+</resources>
